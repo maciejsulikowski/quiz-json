@@ -9,13 +9,20 @@
             "text": "What is the capital city of Costa Rica?"
           },
           "correctAnswer": "San Jose",
-          "incorrectAnswers": ["Andorra la Vella", "Port of Spain", "Majuro"],
-          "tags": ["capital_cities", "central_america", "geography"],
+          "incorrectAnswers": [
+            "Andorra la Vella",
+            "Port of Spain",
+            "Majuro"
+          ],
+          "tags": [
+            "capital_cities",
+            "central_america",
+            "geography"
+          ],
           "type": "text_choice",
           "difficulty": "hard",
           "isNiche": false
         }
-        
       ]
     },
     {
@@ -27,13 +34,18 @@
             "text": "Which of these is a basketball team based in Miami?"
           },
           "correctAnswer": "Miami Heat",
-          "incorrectAnswers": ["Miami Braves", "Miami Sounders", "Miami Marlins"],
-          "tags": ["sport"],
+          "incorrectAnswers": [
+            "Miami Braves",
+            "Miami Sounders",
+            "Miami Marlins"
+          ],
+          "tags": [
+            "sport"
+          ],
           "type": "text_choice",
           "difficulty": "medium",
           "isNiche": false
         }
-        
       ]
     },
     {
@@ -45,8 +57,14 @@
             "text": "What is a baby weasel known as?"
           },
           "correctAnswer": "A Kit",
-          "incorrectAnswers": ["A Kitten", "A Pup", "A Caterpillar"],
-          "tags": ["science"],
+          "incorrectAnswers": [
+            "A Kitten",
+            "A Pup",
+            "A Caterpillar"
+          ],
+          "tags": [
+            "science"
+          ],
           "type": "text_choice",
           "difficulty": "hard",
           "isNiche": false
@@ -57,13 +75,19 @@
             "text": "What type of rocks are created by the cooling and hardening of lava or magma?"
           },
           "correctAnswer": "Igneous Rocks",
-          "incorrectAnswers": ["Sedimentary Rocks", "Metamorphic Rocks", "Fossils"],
-          "tags": ["geology", "science"],
+          "incorrectAnswers": [
+            "Sedimentary Rocks",
+            "Metamorphic Rocks",
+            "Fossils"
+          ],
+          "tags": [
+            "geology",
+            "science"
+          ],
           "type": "text_choice",
           "difficulty": "medium",
           "isNiche": false
         }
-       
       ]
     },
     {
@@ -75,38 +99,37 @@
             "text": "In Italian, what is the meaning of the word 'nove'?"
           },
           "correctAnswer": "Nine",
-          "incorrectAnswers": ["Four", "Black", "Two"],
-          "tags": ["language", "translations", "society_and_culture"],
+          "incorrectAnswers": [
+            "Four",
+            "Black",
+            "Two"
+          ],
+          "tags": [
+            "language",
+            "translations",
+            "society_and_culture"
+          ],
           "type": "text_choice",
           "difficulty": "hard",
           "isNiche": false
         }
-       
       ]
     },
     {
       "name": "history",
-      "questions": [
-       
-      ]
+      "questions": []
     },
     {
       "name": "politics",
-      "questions": [
-      
-      ]
+      "questions": []
     },
     {
       "name": "sports",
-      "questions": [
-        
-      ]
+      "questions": []
     },
     {
       "name": "vehicles",
-      "questions": [
-       
-      ]
+      "questions": []
     }
   ]
 }
