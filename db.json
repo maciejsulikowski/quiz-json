@@ -1,0 +1,62 @@
+"quotes": [
+    {
+      "id": 1,
+      "content": "Najlepszy sposób na przewidzenie przyszłości jest jej stworzenie.",
+      "author_id": 1,
+      "author_name": "Henry Ford"
+    },
+    {
+      "id": 2,
+      "content": "Twoje życie zmieni się dopiero wtedy, gdy zaczniesz zmieniać się sam.",
+      "author_id": 2,
+      "author_name": "Tony Robbins"
+    },
+    {
+      "id": 3,
+      "content": "Sukces to nie klucz do szczęścia. Szczęście to klucz do sukcesu. Jeśli kochasz to, co robisz, osiągniesz sukces.",
+      "author_id": 3,
+      "author_name": "Albert Schweitzer"
+    },
+    {
+      "id": 4,
+      "content": "Sukces to nie końcowa stacja. To droga ciągłego doskonalenia się.",
+      "author_id": 4,
+      "author_name": "Michael Jordan"
+    },
+    {
+      "id": 5,
+      "content": "Nie boj się porażki. Bo porażka to tylko kolejny krok do sukcesu.",
+      "author_id": 5,
+      "author_name": "Winston Churchill"
+    },
+    {
+      "id": 6,
+      "content": "Większość ludzi przecenia to, co mogą osiągnąć w rok, i niedocenia to, co mogą osiągnąć w dziesięć lat.",
+      "author_id": 6,
+      "author_name": "Bill Gates"
+    },
+    {
+      "id": 7,
+      "content": "Nie trać czasu na zazdrość. Czasami podziwianie jest zdrowsze.",
+      "author_id": 7,
+      "author_name": "Oprah Winfrey"
+    },
+    {
+      "id": 8,
+      "content": "Sukces to suma małych wysiłków powtarzanych dzień po dniu.",
+      "author_id": 8,
+      "author_name": "Robert Collier"
+    },
+    {
+      "id": 9,
+      "content": "Nigdy nie jest za późno, aby być tym, kim chcesz być.",
+      "author_id": 9,
+      "author_name": "George Eliot"
+    },
+    {
+      "id": 10,
+      "content": "Najlepszy sposób na przewidzenie przyszłości jest jej stworzenie.",
+      "author_id": 10,
+      "author_name": "Peter Drucker"
+    }
+  ],
