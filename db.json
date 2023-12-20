@@ -15,7 +15,7 @@
           "difficulty": "hard",
           "isNiche": false
         }
-        // Dodaj więcej pytań związanych z kategorią "animals"
+        
       ]
     },
     {
@@ -33,7 +33,7 @@
           "difficulty": "medium",
           "isNiche": false
         }
-        // Dodaj więcej pytań związanych z kategorią "art"
+        
       ]
     },
     {
@@ -63,7 +63,7 @@
           "difficulty": "medium",
           "isNiche": false
         }
-        // Dodaj więcej pytań związanych z kategorią "computer science"
+       
       ]
     },
     {
@@ -81,31 +81,31 @@
           "difficulty": "hard",
           "isNiche": false
         }
-        // Dodaj więcej pytań związanych z kategorią "geography"
+       
       ]
     },
     {
       "name": "history",
       "questions": [
-        // Dodaj pytania związane z kategorią "history"
+       
       ]
     },
     {
       "name": "politics",
       "questions": [
-        // Dodaj pytania związane z kategorią "politics"
+      
       ]
     },
     {
       "name": "sports",
       "questions": [
-        // Dodaj pytania związane z kategorią "sports"
+        
       ]
     },
     {
       "name": "vehicles",
       "questions": [
-        // Dodaj pytania związane z kategorią "vehicles"
+       
       ]
     }
   ]
