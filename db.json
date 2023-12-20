@@ -1,126 +1,112 @@
 {
-  "quotes": [
+  "categories": [
     {
-      "id": 1,
-      "content": "Najlepszy sposób na przewidzenie przyszłości jest jej stworzenie.",
-      "author_id": 1,
-      "author_name": "Henry Ford"
+      "name": "animals",
+      "questions": [
+        {
+          "id": "62374015cb85f7ce9e949cda",
+          "question": {
+            "text": "What is the capital city of Costa Rica?"
+          },
+          "correctAnswer": "San Jose",
+          "incorrectAnswers": ["Andorra la Vella", "Port of Spain", "Majuro"],
+          "tags": ["capital_cities", "central_america", "geography"],
+          "type": "text_choice",
+          "difficulty": "hard",
+          "isNiche": false
+        }
+        // Dodaj więcej pytań związanych z kategorią "animals"
+      ]
     },
     {
-      "id": 2,
-      "content": "Twoje życie zmieni się dopiero wtedy, gdy zaczniesz zmieniać się sam.",
-      "author_id": 2,
-      "author_name": "Tony Robbins"
+      "name": "art",
+      "questions": [
+        {
+          "id": "62417d410f96c4efe8d773b4",
+          "question": {
+            "text": "Which of these is a basketball team based in Miami?"
+          },
+          "correctAnswer": "Miami Heat",
+          "incorrectAnswers": ["Miami Braves", "Miami Sounders", "Miami Marlins"],
+          "tags": ["sport"],
+          "type": "text_choice",
+          "difficulty": "medium",
+          "isNiche": false
+        }
+        // Dodaj więcej pytań związanych z kategorią "art"
+      ]
     },
     {
-      "id": 3,
-      "content": "Sukces to nie klucz do szczęścia. Szczęście to klucz do sukcesu. Jeśli kochasz to, co robisz, osiągniesz sukces.",
-      "author_id": 3,
-      "author_name": "Albert Schweitzer"
+      "name": "computer science",
+      "questions": [
+        {
+          "id": "6243359bcfaae40c129614b9",
+          "question": {
+            "text": "What is a baby weasel known as?"
+          },
+          "correctAnswer": "A Kit",
+          "incorrectAnswers": ["A Kitten", "A Pup", "A Caterpillar"],
+          "tags": ["science"],
+          "type": "text_choice",
+          "difficulty": "hard",
+          "isNiche": false
+        },
+        {
+          "id": "63adbd6204c68cc1e14b8e23",
+          "question": {
+            "text": "What type of rocks are created by the cooling and hardening of lava or magma?"
+          },
+          "correctAnswer": "Igneous Rocks",
+          "incorrectAnswers": ["Sedimentary Rocks", "Metamorphic Rocks", "Fossils"],
+          "tags": ["geology", "science"],
+          "type": "text_choice",
+          "difficulty": "medium",
+          "isNiche": false
+        }
+        // Dodaj więcej pytań związanych z kategorią "computer science"
+      ]
     },
     {
-      "id": 4,
-      "content": "Sukces to nie końcowa stacja. To droga ciągłego doskonalenia się.",
-      "author_id": 4,
-      "author_name": "Michael Jordan"
+      "name": "geography",
+      "questions": [
+        {
+          "id": "6266e6b3ff2394bd44dee05e",
+          "question": {
+            "text": "In Italian, what is the meaning of the word 'nove'?"
+          },
+          "correctAnswer": "Nine",
+          "incorrectAnswers": ["Four", "Black", "Two"],
+          "tags": ["language", "translations", "society_and_culture"],
+          "type": "text_choice",
+          "difficulty": "hard",
+          "isNiche": false
+        }
+        // Dodaj więcej pytań związanych z kategorią "geography"
+      ]
     },
     {
-      "id": 5,
-      "content": "Nie boj się porażki. Bo porażka to tylko kolejny krok do sukcesu.",
-      "author_id": 5,
-      "author_name": "Winston Churchill"
+      "name": "history",
+      "questions": [
+        // Dodaj pytania związane z kategorią "history"
+      ]
     },
     {
-      "id": 6,
-      "content": "Większość ludzi przecenia to, co mogą osiągnąć w rok, i niedocenia to, co mogą osiągnąć w dziesięć lat.",
-      "author_id": 6,
-      "author_name": "Bill Gates"
+      "name": "politics",
+      "questions": [
+        // Dodaj pytania związane z kategorią "politics"
+      ]
     },
     {
-      "id": 7,
-      "content": "Nie trać czasu na zazdrość. Czasami podziwianie jest zdrowsze.",
-      "author_id": 7,
-      "author_name": "Oprah Winfrey"
+      "name": "sports",
+      "questions": [
+        // Dodaj pytania związane z kategorią "sports"
+      ]
     },
     {
-      "id": 8,
-      "content": "Sukces to suma małych wysiłków powtarzanych dzień po dniu.",
-      "author_id": 8,
-      "author_name": "Robert Collier"
-    },
-    {
-      "id": 9,
-      "content": "Nigdy nie jest za późno, aby być tym, kim chcesz być.",
-      "author_id": 9,
-      "author_name": "George Eliot"
-    },
-    {
-      "id": 10,
-      "content": "Najlepszy sposób na przewidzenie przyszłości jest jej stworzenie.",
-      "author_id": 10,
-      "author_name": "Peter Drucker"
-    }
-  ],
-"stories": [
-    {
-      "author_id": 1,
-      "bio": "Ford jest uważany za jednego z najbardziej wpływowych przedsiębiorców w historii motoryzacji. Jego wkład w rozwój przemysłu samochodowego oraz wprowadzenie modelu T, który stał się pierwszym masowo produkowanym samochodem, jest niezaprzeczalny.",
-      "picture": "https://cdn.pixabay.com/photo/2012/10/26/02/32/henry-ford-63113_1280.jpg",
-      "source": "https://pixabay.com/pl/photos/henry-ford-portret-facet-63113/"
-    },
-    {
-      "author_id": 2,
-      "bio": "Tony Robbins to amerykański mówca motywacyjny, pisarz i coach. Jego książki i seminaria motywacyjne przyczyniły się do zmiany życia tysięcy ludzi na całym świecie. Robbins jest znany z przekazywania narzędzi i strategii, które pomagają osiągnąć sukces i osobistą transformację.",
-      "picture": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tony_Robbins.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Tony_Robbins.jpg"
-    },
-    {
-      "author_id": 3,
-      "bio": "Albert Schweitzer był niemieckim lekarzem, filozofem, teologiem i muzykiem. Jego filozofia opierała się na idei szacunku dla życia i altruizmu. Schweitzer poświęcił większość swojego życia na misję medyczną w Afryce Środkowej, gdzie założył szpital i pomagał biednym i chorym.",
-      "picture": "https://cdn.pixabay.com/photo/2021/05/06/22/31/albert-schweitzer-6234657_1280.png",
-      "source": "https://pixabay.com/pl/illustrations/albert-schweitzer-twarz-facet-6234657/"
-    },
-    {
-      "author_id": 4,
-      "bio": "Michael Jordan to amerykańska legenda koszykówki. Uważany za jednego z największych graczy w historii tego sportu, Jordan zdobył wiele mistrzostw NBA i został sześciokrotnym mistrzem. Jego determinacja, umiejętności i wola walki są nadal inspiracją dla wielu sportowców i fanów na całym świecie.",
-      "picture": "https://cdn.pixabay.com/photo/2022/07/09/22/16/michael-jordan-7311821_1280.png",
-      "source": "https://pixabay.com/pl/illustrations/michael-jordan-sportowiec-koszyk%C3%B3wka-7311821/"
-    },
-    {
-      "author_id": 5,
-      "bio": "Winston Churchill był brytyjskim politykiem i mówcą. Jako premier Wielkiej Brytanii w czasie II wojny światowej, Churchill stał się symbolem odwagi i niezłomności. Jego inspirujące przemówienia i determinacja w walce przeciwko nazizmowi są nadal cenione i cytowane do dzisiaj.",
-      "picture": "https://cdn.pixabay.com/photo/2016/04/01/10/17/britain-1299836_1280.png",
-      "source": "https://pixabay.com/pl/vectors/brytania-churchill-s%C5%82awny-ludzie-1299836/"
-    },
-    {
-      "author_id": 6,
-      "bio": "Bill Gates to amerykański przedsiębiorca i filantrop. Jako współzałożyciel Microsoftu, Gates odegrał kluczową rolę w rewolucji komputerowej. Obecnie zajmuje się działalnością charytatywną poprzez Fundację Bill i Melindy Gatesów, która skupia się na zwalczaniu chorób.",
-      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bill_Gates_2018.jpg/640px-Bill_Gates_2018.jpg",
-      "source": "https://commons.wikimedia.org/w/index.php?search=bill+gates&title=Special:MediaSearch&go=Go&type=image"
-    },
-    {
-    "author_id": 7,
-      "bio": "Oprah Winfrey to amerykańska producentka telewizyjna, prezenterka, aktorka i filantropka. Jej talk-show, \"The Oprah Winfrey Show\", było jednym z najbardziej wpływowych programów telewizyjnych wszech czasów. Winfrey jest również znana z zaangażowania społecznego i działalności charytatywnej.",
-      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oprah_Winfrey_2016.jpg/640px-Oprah_Winfrey_2016.jpg",
-      "source": "https://commons.wikimedia.org/w/index.php?search=Oprah+Winfrey&title=Special:MediaSearch&type=image"
-    },
-    {
-      "author_id": 8,
-      "bio": "Robert Collier był amerykańskim pisarzem i autorem książek z dziedziny rozwoju osobistego. Jego prace skupiały się na sile myśli i wizualizacji w osiąganiu sukcesu. Collier jest uważany za jednego z pionierów ruchu samorozwoju.",
-      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Robert_Porrett_Collier.jpg/640px-Robert_Porrett_Collier.jpg",
-      "source": "https://commons.wikimedia.org/w/index.php?search=robert+collier&title=Special:MediaSearch&go=Go&type=image"
-    },
-    {
-      "author_id": 9,
-      "bio": "George Eliot to pseudonim używany przez brytyjską pisarkę Mary Ann Evans. Jej powieści, takie jak \"Middlemarch\" i \"Daniel Deronda\", są uważane za klasyki literatury angielskiej. Eliot była jedną z najbardziej wpływowych pisarek swojego czasu i zajmowała się tematyką społeczną i moralną.",
-      "picture": "https://free-images.com/lg/b32c/george_eliot_7.jpg",
-      "source": "https://free-images.com/display/george_eliot_7.html"
-    },
-    {
-      "author_id": 10,
-      "bio": "Peter Drucker był austriacko-amerykańskim teoretykiem zarządzania i konsultantem. Jego książki, takie jak \"The Practice of Management\" i \"Innovation and Entrepreneurship\", miały ogromny wpływ na dziedzinę zarządzania i przedsiębiorczości. Drucker jest uważany za jednego z ojców zarządzania.",
-      "picture": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Drucker5789.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Drucker5789.jpg"
+      "name": "vehicles",
+      "questions": [
+        // Dodaj pytania związane z kategorią "vehicles"
+      ]
     }
   ]
 }
