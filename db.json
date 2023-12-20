@@ -1,17 +1,16 @@
 {
-"quotes": [
+  "quotes": [
     {
       "id": 1,
       "content": "Najlepszy sposób na przewidzenie przyszłości jest jej stworzenie.",
       "author_id": 1,
       "author_name": "Henry Ford"
     },
-    
     {
       "id": 10,
-      "content": "Najlepszy sposób na przewidzenie przyszłości jest jej stworzenie.",
+      "content": "Sukces to wynik przygotowania, twardej pracy i nauki na błędach.",
       "author_id": 10,
       "author_name": "Peter Drucker"
     }
-  ],
+  ]
 }
